@@ -1,0 +1,5 @@
+name: bitsy-creepers
+author: alyphen
+version: 1.0.0
+main: io.ledoux.bitsy.creepers.BitsyCreepers
+api-version: 1.14
